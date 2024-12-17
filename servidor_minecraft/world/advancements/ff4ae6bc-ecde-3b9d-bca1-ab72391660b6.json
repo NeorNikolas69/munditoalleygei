@@ -31,8 +31,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-17 03:00:10 +0000",
       "minecraft:sunflower_plains": "2024-12-17 01:45:05 +0000",
       "minecraft:beach": "2024-12-17 02:30:54 +0000",
+      "minecraft:river": "2024-12-17 02:57:39 +0000",
+      "minecraft:forest": "2024-12-17 02:59:01 +0000",
       "minecraft:ocean": "2024-12-17 02:10:01 +0000",
       "minecraft:plains": "2024-12-16 21:52:24 +0000"
     },
@@ -1259,6 +1262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-17 02:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-17 02:37:15 +0000"
@@ -1373,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-17 02:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-17 02:37:37 +0000"
@@ -1409,6 +1424,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-17 02:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 02:17:46 +0000"
@@ -1418,6 +1439,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-17 02:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-17 02:50:20 +0000"
     },
     "done": true
   },
@@ -1442,6 +1469,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-17 02:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-17 02:49:23 +0000"
     },
     "done": true
   },
@@ -1499,6 +1532,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-17 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-17 02:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-17 02:21:25 +0000"
@@ -1508,6 +1553,12 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-17 02:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-17 02:49:23 +0000"
     },
     "done": true
   },
@@ -1568,6 +1619,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-17 02:54:02 +0000"
     },
     "done": true
   },
@@ -1661,6 +1718,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-17 02:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-17 02:33:28 +0000"
@@ -1682,6 +1745,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-17 02:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-17 02:54:02 +0000"
     },
     "done": true
   },
@@ -1781,6 +1850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-17 02:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-17 02:37:37 +0000"
@@ -1790,6 +1865,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-17 02:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-17 02:52:51 +0000"
     },
     "done": true
   },
@@ -1911,6 +1992,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-17 02:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-17 02:49:23 +0000"
     },
     "done": true
   },
