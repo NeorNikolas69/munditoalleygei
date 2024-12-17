@@ -1,235 +1,348 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734385386379 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734386730742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385389481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386733804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385392557 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386736866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385395616 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386739923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385398682 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386742981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385401773 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386746038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385404833 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386749096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385407905 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386752178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385410992 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386755234 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385414053 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386758290 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385417123 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386761378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385420187 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386764455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385423254 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386767513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385426334 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386770583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385429399 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386773637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385432492 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386776703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385435554 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386779770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385438612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386782829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385441692 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386785891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385444754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386789069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385447828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386792125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385450894 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386795187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385453972 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386798249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385457033 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386801331 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385460150 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386804488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385463210 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386807551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385466285 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386810614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385469349 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386813671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385472455 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386816779 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385475515 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386819836 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385478576 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386822916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385481693 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386826081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385484763 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386829194 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385487827 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386832254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385491083 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386835312 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385494142 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386838371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385497214 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386841583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385500276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386844639 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385503359 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386847735 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385506424 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386850960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385509499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386854026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385512560 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386857088 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385515630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386860181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385518702 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386863265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385521813 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386866435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385524886 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386869513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734385527968 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734386872576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386875663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386878747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386881809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386884872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386887933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386890990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386894055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386897145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386900212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386903275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
+fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734386906344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
 fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
