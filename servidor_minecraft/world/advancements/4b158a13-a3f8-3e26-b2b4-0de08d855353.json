@@ -34,6 +34,10 @@
       "minecraft:sunflower_plains": "2024-12-16 04:37:37 +0000",
       "minecraft:beach": "2024-12-16 05:14:38 +0000",
       "minecraft:river": "2024-12-17 01:58:38 +0000",
+      "minecraft:swamp": "2024-12-17 02:43:29 +0000",
+      "minecraft:cold_ocean": "2024-12-17 02:34:00 +0000",
+      "minecraft:forest": "2024-12-17 02:44:00 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-17 02:42:32 +0000",
       "minecraft:ocean": "2024-12-16 04:55:13 +0000",
       "minecraft:plains": "2024-12-16 04:31:50 +0000"
     },
@@ -1811,6 +1815,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-17 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 02:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-17 02:16:56 +0000"
@@ -1835,9 +1851,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-17 02:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 01:53:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-17 02:45:53 +0000"
     },
     "done": true
   },
@@ -1883,9 +1911,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-17 02:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 01:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
     },
     "done": true
   },
@@ -1898,6 +1938,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-17 01:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
     },
     "done": true
   },
@@ -1919,6 +1965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-17 02:17:18 +0000"
@@ -1934,6 +1986,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 01:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
     },
     "done": true
   },
@@ -1985,6 +2043,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-17 02:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 01:53:09 +0000"
@@ -2006,6 +2088,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-17 02:16:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-17 02:45:53 +0000"
     },
     "done": true
   },
@@ -2039,9 +2127,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-17 02:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-17 02:42:03 +0000"
     },
     "done": true
   },
@@ -2069,6 +2181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-17 02:43:19 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_material": "2024-12-17 02:16:09 +0000"
@@ -2084,6 +2202,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-17 02:13:32 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2024-12-17 02:46:04 +0000"
     },
     "done": true
   },
@@ -2120,6 +2244,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 01:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-17 02:43:39 +0000"
     },
     "done": true
   },
@@ -2171,9 +2301,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-17 02:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-17 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-17 02:46:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-17 02:45:53 +0000"
     },
     "done": true
   },
@@ -2186,6 +2334,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2024-12-17 01:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 02:31:14 +0000"
     },
     "done": true
   },
