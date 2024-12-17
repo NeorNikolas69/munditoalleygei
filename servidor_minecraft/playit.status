@@ -1,348 +1,647 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734386730742 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734412369611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386733804 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412372697 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386736866 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412375783 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386739923 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412378868 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386742981 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412381953 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386746038 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412385044 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386749096 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412388129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386752178 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412391217 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386755234 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412394316 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386758290 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412397402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386761378 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412400499 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386764455 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412403573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386767513 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412406654 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386770583 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412409743 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386773637 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412412857 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386776703 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412415941 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386779770 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412419025 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386782829 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412422103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386785891 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412425185 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386789069 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412428268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386792125 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412431358 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386795187 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412434445 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386798249 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412437533 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386801331 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412440618 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386804488 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412443709 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386807551 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412446797 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386810614 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412449890 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386813671 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412452984 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386816779 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412456073 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386819836 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412459153 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386822916 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412462256 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386826081 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412465330 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386829194 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412468421 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386832254 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412471503 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386835312 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412474592 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386838371 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412477667 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386841583 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412480763 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386844639 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412483854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386847735 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412486963 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386850960 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412490109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386854026 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412493183 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386857088 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412496274 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386860181 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412499363 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386863265 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412502449 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386866435 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412505541 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386869513 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412508629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386872576 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412511767 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386875663 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412514849 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386878747 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412517935 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386881809 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412521019 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386884872 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412524103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386887933 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412527185 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386890990 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412530302 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386894055 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412533388 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386897145 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412536475 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386900212 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412539574 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386903275 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412542671 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734386906344 tunnel running, 2 tunnels registered
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412545755 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-sport-potatoes.gl.at.ply.gg:2499 => 127.0.0.1:2499 (proto: Udp, port count: 1)
-fat-fresh.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412548853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412551936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412555028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412558118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412561202 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412564287 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412567373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412570457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412573574 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412576659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412579752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412582852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412585948 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412589034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412592121 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412595210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412598294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412601415 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412604509 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412607591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412610674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412613758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412616835 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412619919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412623003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412626080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412629153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412632240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412635334 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412638416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412641491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412644570 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412647656 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412650774 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412653848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412656921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412659997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412663073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412666189 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412669262 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412672332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412675419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412678504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412681586 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412684661 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412687740 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412690811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412693887 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412696960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412700031 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412703152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412706223 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412709396 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412712473 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412715547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734412730648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412733728 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412736811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412739894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412742965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734412758076 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412761153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412764227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412767308 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412770402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412773475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734412788701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412791771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734412794840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+de-defects.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)

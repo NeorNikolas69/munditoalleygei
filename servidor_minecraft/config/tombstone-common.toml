@@ -2,7 +2,7 @@
 #Options related to player's death
 [player_death]
 	#Whether to unlock access to a grave if the player has been killed by another player [false/true|default:true]
-	pvp_unlock_grave = false
+	pvp_unlock_grave = true
 	#Whether to restore beneficial effects after a player dies [false/true|default:true]
 	restore_effects_on_death = false
 	#Only abandoned graves can have losses of items (based on the decay_time) [false/true|default:true]
@@ -31,7 +31,7 @@
 	chance_mob_on_grave_recovery = 0
 	#Percent of stolen experience by killing a player when PvP mode is enabled [0..100|default:30]
 	#Range: 0 ~ 100
-	pvp_stolen_xp = 0
+	pvp_stolen_xp = 30
 	#Knowledge of Death loss on death [0..500|default:0]
 	#Range: 0 ~ 500
 	knowledge_loss = 0
@@ -41,8 +41,8 @@
 	#The percentage of items that are lost on death [0..100|default:0]
 	#Range: 0 ~ 100
 	percent_loss_on_death = 0
-	#Graveless Areas
-	no_grave_location = ["0, -300, 0, minecraft:overworld, 20"]
+	#Graveless Dimensions
+	no_grave_dimension = []
 
 #Options related to player's alignment
 [alignment]
@@ -83,8 +83,6 @@
 	teleport_dim = true
 	#Increases the minimum time without sleeping for phantom spawn around player based on their level in Knowledge of Death [false/true|default:true]
 	knowledge_reduce_phantom_spawn = true
-	#Allows players to be hurt by special damages related to some items [false/true|default:true]
-	allow_beyond_the_grave_damage = true
 	#Minimum time without sleeping for phantom to spawn around players [1200..MAX|default:72000]
 	#Range: > 1200
 	time_for_phantom_spawn = 72000
@@ -150,8 +148,6 @@
 	#Duration of voodoo poppet's effects in seconds when preventing death [5..60000|default:60]
 	#Range: 5 ~ 60000
 	duration_voodoo_poppet_effects = 60
-	#Tamable creatures that can't captured by Familiar Receptacle
-	unhandled_tamable_entities = ["ars_nouveau:animated_block", "ars_nouveau:animated_head"]
 
 #For settings related to decorative tombs and magic items
 [decorative_grave]
@@ -170,7 +166,7 @@
 	time_soul = 30
 	#Chance on 1000 that a soul appears on a grave [0..1000|default:100]
 	#Range: 0 ~ 1000
-	chance_soul = 200
+	chance_soul = 100
 	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:30]
 	#Range: 0 ~ 100
 	chance_pray_reward = 30
@@ -179,9 +175,9 @@
 [enchantments]
 	#The wearer is also affected by the effect if his alignment is not bad [false/true|default:true]
 	nerf_plague_bringer = true
-	#Maximum duration of stolen effects in minutes [1..MAX|default:60]
+	#Maximum duration of stolen effects in minutes [1..MAX|default:10]
 	#Range: > 1
-	max_duration_magic_siphon = 60
+	max_duration_magic_siphon = 10
 	#Duration of applied effects in seconds [1..MAX|default:10]
 	#Range: > 1
 	duration_plague_bringer = 10
